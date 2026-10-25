@@ -1,16 +1,27 @@
-## Hi there 👋
 
-<!--
-**mjkeariell/mjkeariell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm Michael
 
-Here are some ideas to get you started:
+🎓 Engineering Student
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+- 🌱 I'm currently learning Java.
+- 🧠 I'm learning Object-Oriented Programming (OOP).
+- 🛠️ I'm interested in building projects and improving my programming skills.
+- 🎯 My goal is to become a skilled software developer.
+
+## 🚀 Technologies I'm Learning
+
+- Java
+
+## 🎮 Hobbies & Interests
+
+- 🎮 Playing video games
+- 💻 Learning about technology and programming
+- 🎵 Listening to music
+- 📚 Learning new things
+- 🛠️ Exploring new projects and ideas
+
+## 📚 Goals
+
+I'm always looking to learn new things, practice my skills, and build projects that help me grow as a developer.
